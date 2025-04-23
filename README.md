@@ -1,9 +1,7 @@
 ## Hello, I am Gustavo Ferreira, owner of this profile!
 
-- Dream of being a front-end developer
-- I am learning more about Figma, ReactJS, and TypeScript.
-- I am passionate about the design aspect of websites and apps.
-- Free Time: I enjoy drawing
+- Busco hoje me tornar um DBA ou Engenheiro de dados.
+- Utilizo o github para colocar scripts de estudos relacionados aos SGBD.
   
 ## General knowledge
 
