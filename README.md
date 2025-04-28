@@ -71,6 +71,42 @@ Me chamo Gustavo Ferreira, tenho 20 anos e sou de São Paulo, capital. Tenho 2 a
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
+/>
+
+<img
+    align="left" 
+    alt="Postegre" 
+    title="Postegre"
+    width="30px" 
+    style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img
+   align="left" 
+    alt="SQLserver" 
+    title="SQLserver"
+    width="30px" 
+    style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+/>
+                              
+<img
+   align="left" 
+   alt="SQL" 
+   title="SQL"
+   width="30px" 
+   style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+          
 <br/>
 <br/>
 
