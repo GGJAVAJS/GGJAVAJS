@@ -2,7 +2,7 @@
 
 **`IT support | DBA | Data Engineer`**
 
-Me chamo Gustavo Ferreira, tenho 20 anos e sou de são paulo capital, tenho 2 anos de experiência com TI tendo atuação no suporte técnico. Atualmente, estou cursando Banco de dados pela faculdade IMPACTA. Busco uma oportunidades nas áreas de infraestrutura, cloud, banco de dados e engenheria de dados, aqui posto meus projetos e estudos de scripts no SQL. 
+Me chamo Gustavo Ferreira, tenho 20 anos e sou de São Paulo, capital. Tenho 2 anos de experiência com TI, atuando no suporte técnico. Atualmente, estou cursando Banco de Dados pela faculdade IMPACTA. Busco oportunidades nas áreas de infraestrutura, cloud, banco de dados e engenharia de dados. Aqui, posto meus projetos e estudos de scripts em SQL.
 
 <div> 
   <a href = "ferreiragu12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
