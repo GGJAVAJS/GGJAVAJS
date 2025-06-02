@@ -80,20 +80,20 @@ Me chamo Gustavo Ferreira, tenho 20 anos e sou de São Paulo, capital. Tenho 2 a
 />
 <img
    align="left" 
-    alt="SQLserver" 
-    title="SQLserver"
-    width="30px" 
-    style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
-/>                              
-<img
-   align="left" 
    alt="SQL" 
    title="SQL"
    width="30px" 
    style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
+<img
+   align="left" 
+    alt="SQLserver" 
+    title="SQLserver"
+    width="30px" 
+    style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+/>                              
           
 <br/>
 <br/>
